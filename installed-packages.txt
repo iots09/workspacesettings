@@ -1,0 +1,36 @@
+i   bless                                        - A full featured hexadecimal editor
+i   bochs                                        - IA-32 PC emulator
+i   bochs-x                                      - X11 plugin for Bochs
+i   build-essential                              - Informational list of build-essential packages
+i   cmake                                        - cross-platform, open-source make system
+i   compiz-plugins-extra                         - transitional dummy package
+i   compizconfig-settings-manager                - Compiz configuration settings manager
+i   copyq                                        - Clipboard manager with advanced features
+i   diffutils                                    - File comparison utilities
+i   dnsutils                                     - Clients provided with BIND
+i   emscripten                                   - LLVM-to-JavaScript Compiler
+i   exuberant-ctags                              - build tag file indexes of source code definitions
+i   g++                                          - GNU C++ compiler
+i   g++-4.8                                      - GNU C++ compiler
+i   gcc-5-base                                   - GCC, the GNU Compiler Collection (base package)
+i   gcc-6-base                                   - GCC, the GNU Compiler Collection (base package)
+i   gist                                         - Upload gists to gist.github.com
+i   git                                          - fast, scalable, distributed revision control system
+i   google-chrome-stable                         - The web browser from Google
+i   mysql-workbench-community                    - MySQL Workbench
+i   nasm                                         - General-purpose x86 assembler
+i   neovim                                       - Fork of Vim aiming to improve user experience, plugins
+i   nodejs                                       - evented I/O for V8 javascript
+i   npm                                          - package manager for Node.js
+i   openssh-server                               - secure shell (SSH) server, for secure access from remo
+i   pinta                                        - Simple drawing/painting program
+i   putty-tools                                  - command-line tools for SSH, SCP, and SFTP
+i   slack-desktop                                - Slack Desktop
+i   spotify-client                               - Spotify streaming music client
+i   sshfs                                        - filesystem client based on SSH File Transfer Protocol
+i   stack                                        - The Haskell Tool Stack
+i   tmux                                         - terminal multiplexer
+i   wireshark                                    - network traffic analyzer - meta-package
+i   xbindkeys                                    - Associate a combination of keys or mouse buttons with
+i   xclip                                        - command line interface to X selections
+i   zsh                                          - shell with lots of features
