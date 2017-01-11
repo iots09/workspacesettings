@@ -374,4 +374,4 @@ set autochdir
 " build shortcuts
 autocmd FileType haskell noremap <F5> :!stack %<CR>
 
-
+set autoread
